@@ -1,0 +1,16 @@
+# audio
+sounddevice
+soundfile
+webrtcvad
+
+# stt
+faster-whisper
+
+# llm
+requests
+
+# tts
+edge-tts
+
+# vts websocket
+websocket-client
